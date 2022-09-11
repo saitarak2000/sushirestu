@@ -1,0 +1,3 @@
+common js
+
+named exports
